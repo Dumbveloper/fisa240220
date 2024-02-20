@@ -8,6 +8,6 @@ public class SimpleController {
 
 	@GetMapping("getdata")
 	public String get() {
-		return "fisa data";
+		return "fisa data - 수정";
 	}
 }
